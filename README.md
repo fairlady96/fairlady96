@@ -1,7 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on a portfolio<br>🤝 I’m looking for help with expanding my knowledge<br>🌱 I’m currently learning Python<br>⚡ Fun fact: Winnie the Pooh is the best!
+# I'm Toika Forde
+I'm Toika from Barbados, and I do Design and Development. I really enjoy learning languages like Python, MySql and HTML.
+I also enjoy wireframing, ui, ux, and design in general. 
+I see myself as a Web Desinger/Web Editor or a Data Analyst.
+
+## What I'm up to:
+🔭 I’m currently working on a portfolio<br>🌱 I’m currently learning Python
 
 
 ## 🌐 Socials:
