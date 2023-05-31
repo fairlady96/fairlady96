@@ -1,4 +1,4 @@
-# Hi there I'm Toika (Toy·Ka) 
+# Hi there, I'm Toika (Toy·Ka) ✌🏾
 
 I'm Toika from Barbados, and I do Design and Development. I really enjoy learning languages like Python, MySql and HTML.
 I also enjoy wireframing, ui, ux, and design in general. 
